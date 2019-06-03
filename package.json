@@ -1,0 +1,11 @@
+{
+  "name": "pasta-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/philiprlarie/pasta-types.git",
+  "author": "Philip Larie <philiprlarie@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

@@ -1,0 +1,4 @@
+/node_modules
+/images
+yarn-error.log
+.DS_Store
